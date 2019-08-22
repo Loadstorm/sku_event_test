@@ -1,0 +1,1487 @@
+[
+    {
+        "id": "451410",
+        "created": "2019-06-04 20:21:53",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: View file \"Logs\/index.ctp\" is missing.\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451409",
+        "created": "2019-06-04 20:17:36",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Action LogsController::index() could not be found.\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451407",
+        "created": "2019-06-04 18:12:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451408",
+        "created": "2019-06-04 18:12:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451403",
+        "created": "2019-06-04 18:12:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451404",
+        "created": "2019-06-04 18:12:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451405",
+        "created": "2019-06-04 18:12:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451406",
+        "created": "2019-06-04 18:12:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451401",
+        "created": "2019-06-04 18:12:02",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451402",
+        "created": "2019-06-04 18:12:02",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451398",
+        "created": "2019-06-04 18:12:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451399",
+        "created": "2019-06-04 18:12:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451400",
+        "created": "2019-06-04 18:12:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Chinet' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451397",
+        "created": "2019-06-04 18:04:31",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451394",
+        "created": "2019-06-04 18:04:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451395",
+        "created": "2019-06-04 18:04:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451396",
+        "created": "2019-06-04 18:04:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451391",
+        "created": "2019-06-04 18:04:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451392",
+        "created": "2019-06-04 18:04:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451393",
+        "created": "2019-06-04 18:04:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451388",
+        "created": "2019-06-04 18:04:28",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451389",
+        "created": "2019-06-04 18:04:28",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451390",
+        "created": "2019-06-04 18:04:28",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451387",
+        "created": "2019-06-04 18:03:11",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451386",
+        "created": "2019-06-04 18:03:06",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451385",
+        "created": "2019-06-04 18:01:57",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451384",
+        "created": "2019-06-04 18:01:15",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451383",
+        "created": "2019-06-04 18:01:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451379",
+        "created": "2019-06-04 18:01:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451380",
+        "created": "2019-06-04 18:01:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451381",
+        "created": "2019-06-04 18:01:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451382",
+        "created": "2019-06-04 18:01:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451375",
+        "created": "2019-06-04 18:01:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451376",
+        "created": "2019-06-04 18:01:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451377",
+        "created": "2019-06-04 18:01:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451378",
+        "created": "2019-06-04 18:01:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451374",
+        "created": "2019-06-04 18:01:07",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451373",
+        "created": "2019-06-04 17:51:11",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451370",
+        "created": "2019-06-04 17:51:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451371",
+        "created": "2019-06-04 17:51:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451372",
+        "created": "2019-06-04 17:51:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451367",
+        "created": "2019-06-04 17:51:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451368",
+        "created": "2019-06-04 17:51:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451369",
+        "created": "2019-06-04 17:51:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451365",
+        "created": "2019-06-04 17:51:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451366",
+        "created": "2019-06-04 17:51:08",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451363",
+        "created": "2019-06-04 17:51:07",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451364",
+        "created": "2019-06-04 17:51:07",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451362",
+        "created": "2019-06-04 17:48:38",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'myp.product_id' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451361",
+        "created": "2019-06-04 17:46:22",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451360",
+        "created": "2019-06-04 17:46:06",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\",\"1028\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 16:17:48\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 16:17:48\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451359",
+        "created": "2019-06-04 16:59:00",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451358",
+        "created": "2019-06-04 16:58:55",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged out: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451357",
+        "created": "2019-06-04 16:54:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451356",
+        "created": "2019-06-04 16:54:19",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451355",
+        "created": "2019-06-04 16:54:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451354",
+        "created": "2019-06-04 16:54:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451353",
+        "created": "2019-06-04 16:53:51",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/16821022, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451352",
+        "created": "2019-06-04 16:53:06",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/16785027, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451351",
+        "created": "2019-06-04 16:52:34",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/10535216, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451350",
+        "created": "2019-06-04 16:52:17",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/12166733, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451349",
+        "created": "2019-06-04 16:51:17",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "The Company Coca-Cola Comp Test has been saved",
+        "body": null
+    },
+    {
+        "id": "451348",
+        "created": "2019-06-04 16:47:06",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451347",
+        "created": "2019-06-04 16:39:57",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451343",
+        "created": "2019-06-04 16:39:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451344",
+        "created": "2019-06-04 16:39:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451345",
+        "created": "2019-06-04 16:39:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451346",
+        "created": "2019-06-04 16:39:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451339",
+        "created": "2019-06-04 16:39:53",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451340",
+        "created": "2019-06-04 16:39:53",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451341",
+        "created": "2019-06-04 16:39:53",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451342",
+        "created": "2019-06-04 16:39:53",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451337",
+        "created": "2019-06-04 16:39:52",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451338",
+        "created": "2019-06-04 16:39:52",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'skuninja.myproducts_competitors' doesn't exist\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 12:15:04\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 12:15:04\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451336",
+        "created": "2019-06-04 16:17:56",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451335",
+        "created": "2019-06-04 16:17:48",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451334",
+        "created": "2019-06-04 15:53:41",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'id' at row 1\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451333",
+        "created": "2019-06-04 15:06:31",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 1\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451332",
+        "created": "2019-06-04 15:01:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451331",
+        "created": "2019-06-04 15:00:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451330",
+        "created": "2019-06-04 15:00:14",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451329",
+        "created": "2019-06-04 14:51:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451328",
+        "created": "2019-06-04 14:45:52",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451327",
+        "created": "2019-06-04 14:41:51",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451326",
+        "created": "2019-06-04 14:41:15",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451325",
+        "created": "2019-06-04 14:40:35",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451324",
+        "created": "2019-06-04 14:40:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451323",
+        "created": "2019-06-04 14:39:19",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1364 Field 'source' doesn't have a default value\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451322",
+        "created": "2019-06-04 14:39:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1364 Field 'source' doesn't have a default value\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451321",
+        "created": "2019-06-04 14:38:41",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451320",
+        "created": "2019-06-04 14:36:43",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451319",
+        "created": "2019-06-04 14:36:24",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1364 Field 'source' doesn't have a default value\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451318",
+        "created": "2019-06-04 14:33:26",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451317",
+        "created": "2019-06-04 14:32:48",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451316",
+        "created": "2019-06-04 14:32:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451315",
+        "created": "2019-06-04 14:32:22",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: The request has been black-holed\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451314",
+        "created": "2019-06-04 14:32:10",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451313",
+        "created": "2019-06-04 14:30:46",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1364 Field 'company_id' doesn't have a default value\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451312",
+        "created": "2019-06-04 14:29:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451311",
+        "created": "2019-06-04 14:29:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: The request has been black-holed\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451310",
+        "created": "2019-06-04 14:28:09",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451309",
+        "created": "2019-06-04 14:26:37",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451308",
+        "created": "2019-06-04 14:24:56",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[HY000]: General error: 1364 Field 'source' doesn't have a default value\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451307",
+        "created": "2019-06-04 14:18:50",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451306",
+        "created": "2019-06-04 14:17:32",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451305",
+        "created": "2019-06-04 14:17:15",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451304",
+        "created": "2019-06-04 13:59:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451303",
+        "created": "2019-06-04 12:26:15",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451302",
+        "created": "2019-06-04 12:25:57",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: The request has been black-holed\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451301",
+        "created": "2019-06-04 12:15:26",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by c.report_date asc' at line 1\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451300",
+        "created": "2019-06-04 12:15:05",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by c.report_date asc' at line 1\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-04 08:14:03\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-04 08:14:03\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451299",
+        "created": "2019-06-04 12:15:04",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451298",
+        "created": "2019-06-04 11:36:19",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43247790 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451297",
+        "created": "2019-06-04 11:34:46",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43351473 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451296",
+        "created": "2019-06-04 11:33:59",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43291624 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451295",
+        "created": "2019-06-04 11:32:47",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43340575 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451294",
+        "created": "2019-06-04 11:31:23",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43340601 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451293",
+        "created": "2019-06-04 11:30:12",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43401176 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451292",
+        "created": "2019-06-04 11:26:03",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43466469 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451291",
+        "created": "2019-06-04 11:25:19",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43401194 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451290",
+        "created": "2019-06-04 11:23:52",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43290888 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451289",
+        "created": "2019-06-04 11:23:19",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43340578 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451288",
+        "created": "2019-06-04 11:18:58",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43340573 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451287",
+        "created": "2019-06-04 11:18:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43290851 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451286",
+        "created": "2019-06-04 11:16:50",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43356896 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451285",
+        "created": "2019-06-04 11:15:07",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43381809 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451284",
+        "created": "2019-06-04 11:14:34",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Allowed memory size of 134217728 bytes exhausted (tried to allocate 43381784 bytes)\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451283",
+        "created": "2019-06-04 09:45:22",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Competitive Comparison successfully executed.",
+        "body": "URL1: https:\/\/www.walmart.com\/ip\/Tasty-Pineapple-Corer-Slicer\/315152287, for Store1: walmart. URL2: https:\/\/www.walmart.com\/ip\/GuruNanda-Natural-Mist-USB-Wall-Plug-in-Essential-Oils-Diffuser\/191115851, for Store2: walmart"
+    },
+    {
+        "id": "451282",
+        "created": "2019-06-04 08:41:45",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mp.item_id' in 'field list'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-06-02 21:28:17\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-06-02 21:28:17\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451281",
+        "created": "2019-06-04 08:14:02",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451280",
+        "created": "2019-06-02 21:29:57",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451279",
+        "created": "2019-06-02 21:29:02",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/47715413, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451278",
+        "created": "2019-06-02 21:28:17",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451277",
+        "created": "2019-06-02 14:27:52",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451276",
+        "created": "2019-06-02 14:27:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451275",
+        "created": "2019-05-30 17:48:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Not Found\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-30 12:26:41\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-30 12:26:41\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451274",
+        "created": "2019-05-30 16:50:42",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451273",
+        "created": "2019-05-30 16:50:34",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451272",
+        "created": "2019-05-30 16:50:07",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451271",
+        "created": "2019-05-30 16:49:57",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451270",
+        "created": "2019-05-30 16:47:58",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451269",
+        "created": "2019-05-30 13:16:54",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Not Found\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-30 08:17:40\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-30 08:17:40\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451268",
+        "created": "2019-05-30 13:00:55",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Call to undefined function array_ksort()\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-30 08:17:40\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-30 08:17:40\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451267",
+        "created": "2019-05-30 12:29:48",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451266",
+        "created": "2019-05-30 12:26:42",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-30 08:17:40\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-30 08:17:40\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451265",
+        "created": "2019-05-30 12:26:41",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451264",
+        "created": "2019-05-30 12:09:28",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451263",
+        "created": "2019-05-30 12:07:49",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451262",
+        "created": "2019-05-30 12:07:33",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451261",
+        "created": "2019-05-30 12:04:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451260",
+        "created": "2019-05-30 12:04:11",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451259",
+        "created": "2019-05-30 12:03:59",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451258",
+        "created": "2019-05-30 11:42:16",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451257",
+        "created": "2019-05-30 11:35:11",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tag.name' in 'where clause'\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451256",
+        "created": "2019-05-30 11:33:59",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Not Found\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451255",
+        "created": "2019-05-30 11:01:49",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Product Updated Sucessfully",
+        "body": null
+    },
+    {
+        "id": "451254",
+        "created": "2019-05-30 11:00:23",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Table tagged for model Tagged was not found in datasource default.\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-29 16:53:29\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-29 16:53:29\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451253",
+        "created": "2019-05-30 08:17:40",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451252",
+        "created": "2019-05-29 16:53:29",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451251",
+        "created": "2019-05-29 16:53:23",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged out: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451250",
+        "created": "2019-05-29 16:01:15",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451249",
+        "created": "2019-05-29 15:41:13",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    },
+    {
+        "id": "451248",
+        "created": "2019-05-29 09:01:30",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "3",
+        "subject": "Global Error Caught.",
+        "body": "Exception: Invalid Rich Media record!\nUser: Array\n(\n    [id] => 5\n    [name] => Roger Dickey\n    [company_id] => [\"422\"]\n    [password_token] => \n    [email] => rdickey@whytespyder.com\n    [email_verified] => 1\n    [email_token] => \n    [email_token_expires] => 2017-02-06 11:14:10\n    [tos] => 1\n    [active] => 1\n    [last_login] => 2019-05-28 18:40:01\n    [last_action] => \n    [is_admin] => 1\n    [created] => 2017-02-05 23:09:27\n    [modified] => 2019-05-28 18:40:01\n    [group_id] => 1\n    [Group] => Array\n        (\n            [id] => 1\n            [name] => Super Admin\n        )\n\n)\n"
+    },
+    {
+        "id": "451247",
+        "created": "2019-05-29 08:58:42",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "Live Item Test Successfully Executed",
+        "body": "STORE: walmart, URL: https:\/\/www.walmart.com\/ip\/315152287, STORED RESULT: 1, DOWNLOADED RESULT: 0"
+    },
+    {
+        "id": "451246",
+        "created": "2019-05-29 08:57:01",
+        "user_id": "5",
+        "ip": "127.0.0.1",
+        "type": "1",
+        "subject": "User logged in: 'rdickey@whytespyder.com'",
+        "body": null
+    }
+]

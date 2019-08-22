@@ -1,0 +1,144 @@
+@media screen {
+    * {
+        font-family: Montserrat, sans-serif;
+    }
+
+    h1 {
+        color: #fff;
+    }
+
+    body {
+        background: #151719 url(../../../images/pw_maze_black_2X.png);
+    }
+
+    .header {
+        background-color: #5d5e5e;
+        margin-top: -82px;
+        border-radius: 10px 10px 0px 0px;
+        position: relative;
+        height: 150px;
+        padding-top: 5px;
+        padding-left: 25px;
+        text-align: left;
+        z-index: 1;
+        width: 100%;
+        float: left;
+    }
+    
+    .event-display {
+        width: 100%;
+        position: relative;
+        top: 5px;
+        z-index: 2;
+    }
+
+    thead td {
+        padding: 10px 10px;
+        background-color: #dcdcdc;
+        border: 1px solid #4b515d;
+    }
+
+    thead tr {
+        border: 2px solid #4b515d;
+    }
+
+    thead tr:hover {
+        cursor: pointer;
+    }
+
+    td {
+        padding: 2px 10px;
+        font-weight: 600;
+        border: 1px solid #4B515D;
+    }
+
+    tr:nth-child(2){
+        height: 15px;
+    }
+
+    tr.normal-cond {
+        background-color: #00C851;
+    }
+
+    tr.warning-cond {
+        background-color: #ffbb33;
+    }
+
+    tr.error-cond {
+        background-color: #ff4444;
+    }
+
+    .eventSubject::before {
+        padding-right: 5px;
+    }
+
+    .eventSubject-Normal {
+        padding-right: 5px;
+    }
+    .eventSubject-Error {
+        padding-left: 3px;
+        padding-right: 7px;
+    }
+
+    .eventSubject-Warning {
+        padding-left: 6px;
+        padding-right: 9px;
+    }
+
+    /* Popup container */
+    .popup {
+        position: sticky;
+        position: -webkit-sticky;
+        position: -ms-device-fixed;
+        /*display: inline-block;*/
+        cursor: pointer;
+        top: 18%;
+        /*float: left;*/
+        /*left: 31%;*/
+        z-index: 10;
+        height: 100px;
+    }
+
+    /* The actual popup (appears on top) */
+    .popup .popuptext {
+        visibility: hidden;
+        /*width: 160px;*/
+        background-color: #39505f;
+        color: #fff;
+        text-align: left;
+        border-radius: 6px;
+        padding: 10px;
+        z-index: 10;
+        /*position: absolute;*/
+        /*bottom: 125%;*/
+        /*left: 50%;*/
+        /*margin-left: -80px;*/
+        pointer-events: none;
+    }
+
+    /* Toggle this class when clicking on the event for more details (hide and show the popup) */
+    .popup .show {
+        visibility: visible;
+        -webkit-animation: fadeIn 1s;
+        animation: fadeIn 1s;
+        z-index: 10;
+    }
+
+    /* Add animation (fade in the popup) */
+    @-webkit-keyframes fadeIn {
+        from {opacity: 0;}
+        to {opacity: 1;}
+    }
+
+    @keyframes fadeIn {
+        from {opacity: 0;}
+        to {opacity:1 ;}
+    }
+}
+@media screen and (max-device-width: 768px){
+
+    td {
+        padding: 4px 2px;
+        font-size: 12px;
+    }
+}
